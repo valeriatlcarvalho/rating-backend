@@ -4,6 +4,7 @@ node_modules/
 build/
 temp/
 
-tmp/*
-!tmp/.gitkeep
-!tmp/.gitignore
+nespresso/
+
+tmp/**/*
+!tmp/**/*.gitkeep
